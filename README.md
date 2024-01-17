@@ -1,4 +1,3 @@
-[README.md](https://github.com/KKMMSS1/aiclass001/files/13959317/README.md)# aiclass001
 [Uploadi# 안녕하세요, 저는 김민석입니다!
 
 ## 👋 소개
